@@ -1,0 +1,10 @@
+# Local and personal files
+.DS_Store
+*.log
+.env
+.env.*
+service-account*.json
+*-backup-*.json
+my-money-backup-*.json
+firebase-debug.log
+firestore-debug.log
